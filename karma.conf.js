@@ -14,7 +14,6 @@ module.exports = function(config) {
 
     // 需要加载到浏览器的文件列表
     files: [
-      // './src/**/*',
       './test/unit/specs/*.spec.js'
     ],
 
